@@ -1,0 +1,7 @@
+# requirements.txt - Price Engine Multi-Country - FIX yanked version
+playwright==1.52.0
+supabase==2.10.0
+pytz==2024.1
+httpx==0.27.2
+curl_cffi==0.7.4
+python-dotenv==1.0.1
